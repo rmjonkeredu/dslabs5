@@ -1,2 +1,3 @@
 #test
-library(dslabs)
+library(dslabs) 
+library(ggplot2)
